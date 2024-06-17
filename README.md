@@ -8,5 +8,5 @@ The primary objective of this project is to utilize advanced Excel tools and fea
 ## Project Scope
 The scope of the Sales Report includes the following key components:
 
-- Customer Performance Report: This section will broadly analyze trends,compare yearly sales, calculate percentage increase and  offer future outlook in a comprehensive overview of customer sales performance.[Customer Performance Report PDF](file:///C:/Users/Asus/Downloads/Customer%20Performance%20Report.pdf)
+- Customer Performance Report: This section will broadly analyze trends,compare yearly sales, calculate percentage increase and  offer future outlook in a comprehensive overview of customer sales performance.[Customer Performance Report PDF](https://github.com/supriyabhatv/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)
 - Market Performance Vs Target: 
